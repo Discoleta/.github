@@ -55,9 +55,9 @@ Usuário
 <table>
 <tr>
 <td align="center"><a href="https://github.com/alinerasche"><img style="border-radius: 50%;" src="https://github.com/alinerasche.png" width="100px;" alt="Aline Rasche"/><br /><sub><b>Aline Rasche Lobo</b></sub></a><br/></td>
-<td align="center"><a href="https://github.com/DayanaTito"><img style="border-radius: 50%;" src="https://github.com/DayanaTito.png" width="100px;" alt="Dayana Tito"/><br /><sub><b>Dayana Tito</b></sub></a><br/></td> 
-<td align="center"><a href="https://github.com/insivam"><img style="border-radius: 50%;" src="https://github.com/insivam.png" width="100px;" alt="Vitor Rodrigues"/><br /><sub><b>Vitor Rodrigues</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/DayanaTito"><img style="border-radius: 50%;" src="https://github.com/DayanaTito.png" width="100px;" alt="Dayana Tito"/><br /><sub><b>Dayana Tito</b></sub></a><br/></td>
 <td align="center"><a href="https://github.com/milenaFO"><img style="border-radius: 50%;" src="https://github.com/milenaFO.png" width="100px;" alt="Milena Oliveira"/><br /><sub><b>Milena Oliveira</b></sub></a><br/></td> 
+<td align="center"><a href="https://github.com/insivam"><img style="border-radius: 50%;" src="https://github.com/insivam.png" width="100px;" alt="Vitor Rodrigues"/><br /><sub><b>Vitor Rodrigues</b></sub></a><br/></td> 
 <td align="center"><a href="https://github.com/willjpg"><img style="border-radius: 50%;" src="https://github.com/willjpg.png" width="100px;" alt="Willian Silva"/><br /><sub><b>Willian Silva</b></sub></a><br/></td>
 </table>
 
