@@ -40,7 +40,6 @@ Usuário
 <a href="https://www.mysql.com/" target="_blank" title="MySQL"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/></a>
 <a href="https://spring.io/" target="_blank" title="SpringBoot"><img align="center" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/></a>
 <a href="https://insomnia.rest/" target="_blank" title="Insomnia"><img align="center" src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="70" height="70"/></a> 
-
 <a href="https://www.w3.org/html/" target="_blank" title="html"><img align="center" src="https://cdn-icons-png.flaticon.com/512/888/888909.png?w=360" alt="html" width="70" height="70"/></a> 
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" title="css"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="css" width="70" height="70"/></a> 
 <a href="https://www.javascript.com/" target="_blank" title="javascript"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="70" height="70"/></a>
