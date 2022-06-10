@@ -1,5 +1,5 @@
 <img align="right" width="285" src="https://media.discordapp.net/attachments/961308831533637685/980836772365881395/DISCOLETA_-_LOGO.jpg?width=473&height=473">
-<h1 align="center">Bem-vinde ao Discoleta</h1> 
+<h1 align="center">Bem-vindes ao Discoleta</h1> 
 
 <div align="center">
   
