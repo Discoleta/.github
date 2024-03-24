@@ -1,4 +1,5 @@
-<img align="right" width="285" src="https://media.discordapp.net/attachments/961308831533637685/980836772365881395/DISCOLETA_-_LOGO.jpg?width=473&height=473">
+<img align="right" width="285" src="https://i.imgur.com/TXOuUts.jpg">
+
 <h1 align="center">Bem-vindes ao Discoleta</h1>
 
 <div align="center">
@@ -42,7 +43,7 @@ Pessoas maiores de 13 anos podem criar uma conta registrando um endereço de e-m
     <img height="40" width="40" alt="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
     <img height="40" width="40" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img height="40" width="40" alt="VScode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img height="40" width="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">  
+    <img height="40" width="40" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
     <img height="40" width="40" alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img height="40" width="40" alt="Nodejs" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
     <img height="40" width="40" alt="Spring" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
